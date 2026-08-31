@@ -99,7 +99,8 @@ Under DORA and ISO/IEC 27001, the organization remains responsible for managing 
 
 The lifecycle below governs outsourced IT contractors end to end — from vendor identification through periodic reassessment and eventual exit. Stage 8 (re-assessment) feeds back into stage 2 (risk assessment) as an ongoing loop, not a one-time gate.
 
-> 🖼️ *See `media/` for the original TPRM lifecycle diagram exported from the source report.*
+<img width="906" height="563" alt="image" src="https://github.com/user-attachments/assets/5485080b-1b27-42d5-80a5-9d33f3b591af" />
+
 
 ### 4.1 Stage Descriptions
 
@@ -283,7 +284,8 @@ Every risk rating used in the registers that follow is derived from this matrix,
 
 The JML process governs the full lifecycle of vendor personnel access — onboarding, role change, and departure — and is the single control most directly tied to the two highest-rated open risks in the Vendor Risk Register (**VR-01, VR-02**).
 
-> 🖼️ *See `media/` for the original JML process flow diagram exported from the source report.*
+<img width="906" height="594" alt="image" src="https://github.com/user-attachments/assets/07e08059-25ed-47df-9d04-3b9a253be995" />
+
 
 ### 7.1 Joiner (Onboarding Vendor Staff)
 
