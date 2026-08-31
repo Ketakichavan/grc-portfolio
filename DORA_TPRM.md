@@ -2,15 +2,10 @@
 
 **A GRC Framework for Outsourced IT Contractors**
 
-![Framework](https://img.shields.io/badge/Framework-DORA%20%2F%20ISO%2027001-blue)
-![Domain](https://img.shields.io/badge/Domain-GRC%20%2F%20TPRM-informational)
-![Status](https://img.shields.io/badge/Status-Student%20Project-yellow)
-![License](https://img.shields.io/badge/Use-Portfolio%20Demo-lightgrey)
-
 Aligned with **DORA** (Regulation (EU) 2022/2554), Articles 28–30, and **ISO/IEC 27001:2022 Annex A**
 
 > **Role:** GRC / Third-Party Risk Management Analyst (Student Project)
-> **Prepared by:** Rahul — MSc Digital Security, EURECOM
+> **Prepared by:** Ketaki Chavan — MSc Digital Security, EURECOM
 > *Simulated enterprise project — for portfolio and demonstration purposes only.*
 
 ---
