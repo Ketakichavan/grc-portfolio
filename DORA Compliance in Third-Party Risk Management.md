@@ -9,8 +9,6 @@
 
 Aligned with **DORA** (Regulation (EU) 2022/2554), Articles 28–30, and **ISO/IEC 27001:2022 Annex A**
 
-> **Role:** GRC / Third-Party Risk Management Analyst (Student Project)
-> **Prepared by:** Rahul — MSc Digital Security, EURECOM
 > *Simulated enterprise project — for portfolio and demonstration purposes only.*
 
 ---
